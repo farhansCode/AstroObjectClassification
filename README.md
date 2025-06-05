@@ -22,5 +22,3 @@ The project contains a CSV file and a Jupyter Notebook.
 - Multiple machine learning models  
 - Decision trees  
 - SVM kernels
-
-
