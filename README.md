@@ -1,7 +1,6 @@
 # StarGalaxyQSOClassification
 
 This machine learning project uses light data to classify stars, galaxies, and QSOs (quasi-stellar objects).  
-The project contains a CSV file and a Jupyter Notebook.
 
 ## Project Contents
 
