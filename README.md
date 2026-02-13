@@ -5,7 +5,7 @@ This machine learning project uses light data to classify stars, galaxies, and Q
 ## Project Contents
 
 - `StarGalaxyQSOClassification.ipynb` – Jupyter Notebook with python code for data processing, modeling, and evaluation.
-- `data.csv` – Dataset containing labeled photometric data.
+- `LightData.csv` – Dataset containing labeled photometric data.
 
 ## How to Use
 
