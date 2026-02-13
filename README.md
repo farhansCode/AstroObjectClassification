@@ -21,3 +21,4 @@ This machine learning project uses light data to classify stars, galaxies, and Q
 - Multiple machine learning models  
 - Decision trees  
 - SVM kernels
+- Decision-making based on data
